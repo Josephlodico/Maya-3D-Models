@@ -1,4 +1,3 @@
-
 # 🎮 3D Model Portfolio (Maya)
 
 This repository showcases a collection of 3D models I created using Autodesk Maya.
@@ -10,23 +9,7 @@ This repository showcases a collection of 3D models I created using Autodesk May
 
 ## 📦 Models
 
-### 🚀 Sci-Fi Crate
-![SciFi Crate](Images/scifi_crate.png)
 
-- Hard surface modeling
-- Game-ready asset
-- Low poly optimized
-
----
-
-### 🔭 Telescope
-![Telescope](Images/telescope.png)
-
-- Environment prop
-- Clean topology
-- UV mapped
-
----
 
 ## 🎯 Skills Demonstrated
 - Hard surface modeling
