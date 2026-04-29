@@ -4,8 +4,7 @@ This repository showcases a collection of 3D models I created using Autodesk May
 
 ## 🧰 Tools Used
 - Autodesk Maya
-- Substance Painter (if you used it)
-- Photoshop (optional)
+- Substance 3D Painter
 
 ## 📦 My 3D Models
 
