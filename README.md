@@ -34,9 +34,6 @@ This repository showcases a collection of 3D models I created using Autodesk May
 - Texturing
 - Optimization for games
 
-## 📁 Files
-All `.fbx` or `.obj` files are available inside the `Models/` folder.
-
 ---
 
 ## 👤 Author
