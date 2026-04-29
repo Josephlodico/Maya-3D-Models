@@ -10,8 +10,8 @@ This repository showcases a collection of 3D models I created using Autodesk May
 ## 📦 Models
 
 ## SpeedRacers Game Models
-<img width="460" height="639" alt="SRTrophy" src="https://github.com/user-attachments/assets/c00a0eba-dfd5-4576-bee8-34a0bab7f78a" />
-<img width="489" height="499" alt="PlayerStand" src="https://github.com/user-attachments/assets/efcfa5bb-ea6c-4948-9388-da56c7ca477e" />
+<img width="300" height="300" alt="SRTrophy" src="https://github.com/user-attachments/assets/c00a0eba-dfd5-4576-bee8-34a0bab7f78a" />
+<img width="300" height="300" alt="PlayerStand" src="https://github.com/user-attachments/assets/efcfa5bb-ea6c-4948-9388-da56c7ca477e" />
 
 
 
