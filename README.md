@@ -16,6 +16,13 @@ This repository showcases a collection of 3D models I created using Autodesk May
     <td><img src="https://github.com/user-attachments/assets/efcfa5bb-ea6c-4948-9388-da56c7ca477e" width="100%"></td>
   </tr>
 </table>
+## MyDesigns Models
+<table>
+  <tr>
+    <td><img width="200" height="200" alt="BobOmb" src="https://github.com/user-attachments/assets/25a37e86-3795-45fd-b182-b1ebc6c04029" />
+</td>
+  </tr>
+</table>
 
 
 
