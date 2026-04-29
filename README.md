@@ -14,6 +14,8 @@ This repository showcases a collection of 3D models I created using Autodesk May
   <tr>
     <td><img width="400" height="400" alt="SRTrophy" src="https://github.com/user-attachments/assets/c00a0eba-dfd5-4576-bee8-34a0bab7f78a" width="100%"></td>
     <td><img width="400" height="400" alt="PlayerStand" src="https://github.com/user-attachments/assets/efcfa5bb-ea6c-4948-9388-da56c7ca477e" width="100%"></td>
+    <td><img width="400" height="400" alt="Vase" src="https://github.com/user-attachments/assets/5b8a5ddd-eab9-4546-85fa-c08679b60004" width="100%"></td>
+
   </tr>
 </table>
 
