@@ -28,7 +28,7 @@ This repository showcases a collection of 3D models I created using Autodesk May
   </tr>
   <tr>
     <td><img width="400" height="400" alt="Door" src="https://github.com/user-attachments/assets/56dfc72f-e294-409e-b5eb-c2a4850dc663" width="100%"></td>
-    <td><img width="400" height="550" alt="oldClock" src="https://github.com/user-attachments/assets/2fe62252-2921-4a5e-be39-73f266b6133a" width="100%"></td>
+    <td><img width="450" height="560" alt="oldClock" src="https://github.com/user-attachments/assets/2fe62252-2921-4a5e-be39-73f266b6133a" width="100%"></td>
   </tr>
 </table>
 
