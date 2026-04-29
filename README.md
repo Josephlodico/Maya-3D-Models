@@ -17,6 +17,7 @@ This repository showcases a collection of 3D models I created using Autodesk May
   </tr>
 </table>
 
+---
 ## MyDesigns Models
 <table>
   <tr>
