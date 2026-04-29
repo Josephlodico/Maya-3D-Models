@@ -7,7 +7,7 @@ This repository showcases a collection of 3D models I created using Autodesk May
 - Substance Painter (if you used it)
 - Photoshop (optional)
 
-## 📦 Models
+## 📦 My 3D Models
 
 ## SpeedRacers Game 3D Models
 <table>
@@ -41,8 +41,7 @@ This repository showcases a collection of 3D models I created using Autodesk May
   </tr>
 </table>
 
-
-
+---
 
 ## 🎯 Skills Demonstrated
 - Hard surface modeling
