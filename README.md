@@ -1,3 +1,7 @@
+<img width="702" height="636" alt="TelescopePlanet" src="https://github.com/user-attachments/assets/221b6899-e1f8-4935-91fb-08131906d908" />
+<img width="871" height="525" alt="Telescope" src="https://github.com/user-attachments/assets/86535b39-acec-42a7-ab35-646d3f2c19ae" />
+<img width="639" height="554" alt="RedRocket" src="https://github.com/user-attachments/assets/aa09eb2d-0bac-4ece-b1fb-377ddafed294" />
+<img width="540" height="491" alt="PinkGem" src="https://github.com/user-attachments/assets/16c88a98-532d-456a-be63-e1a3f1421eac" />
 <div align="center">
 
 # 🎮 3D Model Portfolio — Maya
