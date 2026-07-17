@@ -1,7 +1,3 @@
-<img width="702" height="636" alt="TelescopePlanet" src="https://github.com/user-attachments/assets/221b6899-e1f8-4935-91fb-08131906d908" />
-<img width="871" height="525" alt="Telescope" src="https://github.com/user-attachments/assets/86535b39-acec-42a7-ab35-646d3f2c19ae" />
-<img width="639" height="554" alt="RedRocket" src="https://github.com/user-attachments/assets/aa09eb2d-0bac-4ece-b1fb-377ddafed294" />
-<img width="540" height="491" alt="PinkGem" src="https://github.com/user-attachments/assets/16c88a98-532d-456a-be63-e1a3f1421eac" />
 <div align="center">
 
 # 🎮 3D Model Portfolio — Maya
@@ -97,21 +93,21 @@
 <table>
   <tr>
     <td align="center">
-      <img src="PinkGem.png" width="100%" alt="Pink gem model"><br>
+      <img src="https://github.com/user-attachments/assets/16c88a98-532d-456a-be63-e1a3f1421eac" width="100%" alt="Pink gem model"><br>
       <sub><b>Pink Gem</b></sub>
     </td>
     <td align="center">
-      <img src="RedRocket.png" width="100%" alt="Red rocket model"><br>
+      <img src="https://github.com/user-attachments/assets/aa09eb2d-0bac-4ece-b1fb-377ddafed294" width="100%" alt="Red rocket model"><br>
       <sub><b>Red Rocket</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Telescope.png" width="100%" alt="Telescope model"><br>
+      <img src="https://github.com/user-attachments/assets/86535b39-acec-42a7-ab35-646d3f2c19ae" width="100%" alt="Telescope model"><br>
       <sub><b>Telescope</b></sub>
     </td>
     <td align="center">
-      <img src="TelescopePlanet.png" width="100%" alt="Telescope planet model"><br>
+      <img src="https://github.com/user-attachments/assets/221b6899-e1f8-4935-91fb-08131906d908" width="100%" alt="Telescope planet model"><br>
       <sub><b>Telescope Planet</b></sub>
     </td>
   </tr>
