@@ -1,54 +1,102 @@
-# 🎮 3D Model Portfolio (Maya)
+<div align="center">
 
-This repository showcases a collection of 3D models I created using Autodesk Maya.
+# 🎮 3D Model Portfolio — Maya
+
+*A collection of 3D models created in Autodesk Maya, spanning game-ready assets, stylized props, and original character designs.*
+
+![Maya](https://img.shields.io/badge/Autodesk-Maya-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![Substance Painter](https://img.shields.io/badge/Substance-3D%20Painter-CA3A32?style=flat-square&logo=adobesubstance3dpainter&logoColor=white)
+
+</div>
+
+---
 
 ## 🧰 Tools Used
-- Autodesk Maya
-- Substance 3D Painter
 
-## 📦 My 3D Models
+| Tool | Purpose |
+|---|---|
+| **Autodesk Maya** | Modeling, UV unwrapping, rigging support |
+| **Substance 3D Painter** | Texturing, material authoring |
 
-## SpeedRacers Game 3D Models
+---
+
+## 📦 Model Gallery
+
+### 🏎️ SpeedRacers — Game Assets
+
 <table>
   <tr>
-    <td><img width="400" height="400" alt="SRTrophy" src="https://github.com/user-attachments/assets/c00a0eba-dfd5-4576-bee8-34a0bab7f78a" width="100%"></td>
-    <td><img width="400" height="400" alt="PlayerStand" src="https://github.com/user-attachments/assets/efcfa5bb-ea6c-4948-9388-da56c7ca477e" width="100%"></td>
-
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c00a0eba-dfd5-4576-bee8-34a0bab7f78a" width="100%" alt="Trophy model"><br>
+      <sub><b>Trophy</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/efcfa5bb-ea6c-4948-9388-da56c7ca477e" width="100%" alt="Player stand model"><br>
+      <sub><b>Player Stand</b></sub>
+    </td>
   </tr>
 </table>
 
 ---
-## Sentiment Game 3D Models
+
+### 🏺 Sentiment — Game Assets
+
 <table>
   <tr>
-    <td><img width="400" height="400" alt="Jar" src="https://github.com/user-attachments/assets/e5ade090-d848-414d-bd6a-0c3f567d05f4" width="100%"></td>
-    <td><img width="400" height="400" alt="LightSwitch" src="https://github.com/user-attachments/assets/33d7cf86-6e0f-49de-96e9-3f1121e33ef4" width="100%"></td>
-    <td><img width="550" height="400" alt="Vase" src="https://github.com/user-attachments/assets/5b8a5ddd-eab9-4546-85fa-c08679b60004" width="100%"></td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e5ade090-d848-414d-bd6a-0c3f567d05f4" width="100%" alt="Jar model"><br>
+      <sub><b>Jar</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/33d7cf86-6e0f-49de-96e9-3f1121e33ef4" width="100%" alt="Light switch model"><br>
+      <sub><b>Light Switch</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5b8a5ddd-eab9-4546-85fa-c08679b60004" width="100%" alt="Vase model"><br>
+      <sub><b>Vase</b></sub>
+    </td>
   </tr>
   <tr>
-    <td><img width="400" height="400" alt="Door" src="https://github.com/user-attachments/assets/56dfc72f-e294-409e-b5eb-c2a4850dc663" width="100%"></td>
-    <td><img width="450" height="560" alt="oldClock" src="https://github.com/user-attachments/assets/2fe62252-2921-4a5e-be39-73f266b6133a" width="100%"></td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/56dfc72f-e294-409e-b5eb-c2a4850dc663" width="100%" alt="Door model"><br>
+      <sub><b>Door</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2fe62252-2921-4a5e-be39-73f266b6133a" width="100%" alt="Old clock model"><br>
+      <sub><b>Old Clock</b></sub>
+    </td>
+    <td></td>
   </tr>
 </table>
 
 ---
-## MyDesigns Models
+
+### ✏️ Original Designs
+
 <table>
   <tr>
-    <td><img width="300" height="300" alt="BobOmb" src="https://github.com/user-attachments/assets/25a37e86-3795-45fd-b182-b1ebc6c04029"></td>
-    <td><img width="300" height="300" alt="RegularChair" src="https://github.com/user-attachments/assets/19296560-b483-4ca9-83bc-3e14141e292c"></td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/25a37e86-3795-45fd-b182-b1ebc6c04029" width="100%" alt="Bob-omb model"><br>
+      <sub><b>Bob-omb</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/19296560-b483-4ca9-83bc-3e14141e292c" width="100%" alt="Regular chair model"><br>
+      <sub><b>Regular Chair</b></sub>
+    </td>
   </tr>
 </table>
 
 ---
 
 ## 🎯 Skills Demonstrated
-- Hard surface modeling
-- UV unwrapping
-- Texturing
-- Optimization for games
+
+- 🔷 Hard surface modeling
+- 🌐 UV unwrapping
+- 🎨 Texturing
+- ⚡ Optimization for real-time game engines
 
 ---
 
 ## 👤 Author
-Joseph Lodico
+
+**Joseph Lodico**
