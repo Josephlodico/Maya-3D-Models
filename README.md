@@ -93,21 +93,21 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./images/PinkGem.png" width="100%" alt="Pink gem model"><br>
+      <img src="PinkGem.png" width="100%" alt="Pink gem model"><br>
       <sub><b>Pink Gem</b></sub>
     </td>
     <td align="center">
-      <img src="./images/RedRocket.png" width="100%" alt="Red rocket model"><br>
+      <img src="RedRocket.png" width="100%" alt="Red rocket model"><br>
       <sub><b>Red Rocket</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/Telescope.png" width="100%" alt="Telescope model"><br>
+      <img src="Telescope.png" width="100%" alt="Telescope model"><br>
       <sub><b>Telescope</b></sub>
     </td>
     <td align="center">
-      <img src="./images/TelescopePlanet.png" width="100%" alt="Telescope planet model"><br>
+      <img src="TelescopePlanet.png" width="100%" alt="Telescope planet model"><br>
       <sub><b>Telescope Planet</b></sub>
     </td>
   </tr>
